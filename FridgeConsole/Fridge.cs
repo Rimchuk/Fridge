@@ -80,6 +80,7 @@
             else if (this.mode == FridgeMode.Vacation)
             {
                 mode = "отпуск";
+
             }
             else if (this.mode == FridgeMode.HandManagment)
             {
